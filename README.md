@@ -1,6 +1,6 @@
 # Python_MATLAB_Intergation
 
-Bulit on 2022/10/26 by Fred Liu & Tim Yeh
+Bulit on 2022/10/26 by Fred Liu & Tim Yeh 
 [Youtube Link](https://www.youtube.com/@FredMATLAB)  
 
 版本:MATALB: 2022b  
